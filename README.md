@@ -1,6 +1,6 @@
 # API Contract SIMS PPOB
 
-# Storage Image Uplaod (Minio Object Store)
+# Storage Image Upload (Minio Object Store)
 
 ![image](https://github.com/user-attachments/assets/dfc8ec41-dec7-4272-a921-422aab948366)
 
