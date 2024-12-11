@@ -49,28 +49,29 @@ Creating sims-ppob_minio_1 ... done
 #### 3. **Membuat database dan import data menggunakan PgAdmin4**
 
 1. **Membuat Database**
+2. asdf
 
-`Nama Database: simsppob`
+   `Nama Database: simsppob`
 
-![image](https://github.com/user-attachments/assets/23095696-748c-42c8-8971-a8bc2b9337da)
-
-![image](https://github.com/user-attachments/assets/7d747dcd-f07c-4a89-ae2d-e41a27426ccd)
+   ![image](https://github.com/user-attachments/assets/23095696-748c-42c8-8971-a8bc2b9337da)
+   
+   ![image](https://github.com/user-attachments/assets/7d747dcd-f07c-4a89-ae2d-e41a27426ccd)
 
 2. **Import Data**
 
    - **Membuka Query Tool**
-
-![image](https://github.com/user-attachments/assets/2d5eca54-b38b-4b42-af97-07237c44e363)
+   
+   ![image](https://github.com/user-attachments/assets/2d5eca54-b38b-4b42-af97-07237c44e363)
 
    - **Membuka dan menjalankan sql script simsppob.sql**
 
-`Lokasi SQL script: sims-ppob/src/main/resources/simsppob.sql`
+   `Lokasi SQL script: sims-ppob/src/main/resources/simsppob.sql`
 
-![image](https://github.com/user-attachments/assets/5caa6e5d-80bf-46c9-9825-18b3d6709ca0)
+   ![image](https://github.com/user-attachments/assets/5caa6e5d-80bf-46c9-9825-18b3d6709ca0)
 
    - SQL script berhasil dijalankan
 
-![image](https://github.com/user-attachments/assets/9b028c35-f056-499c-83c9-ed87a8eddeb3)
+   ![image](https://github.com/user-attachments/assets/9b028c35-f056-499c-83c9-ed87a8eddeb3)
 
 
 #### 4. **Mengatur Spring Active Profiles**
