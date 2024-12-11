@@ -61,10 +61,15 @@ Nama Database: simsppob
 **Import Data**:
 
 ```
-SQL Script: sims-ppob/src/main/resources/simsppob.sql
+SQL Script Location: sims-ppob/src/main/resources/simsppob.sql
 ```
 
-#### 4. **Mengatur Spring Active Profile**
+![image](https://github.com/user-attachments/assets/2d5eca54-b38b-4b42-af97-07237c44e363)
+
+![image](https://github.com/user-attachments/assets/5caa6e5d-80bf-46c9-9825-18b3d6709ca0)
+
+
+#### 4. **Mengatur Spring Active Profiles**
 
 **application.properties**:
 
@@ -89,5 +94,5 @@ spring.datasource.driverClassName=org.postgresql.Driver
 spring.datasource.username={{username_database}}
 spring.datasource.password={{password_database}}
 
-Sesuaikan dengan database anda
+Sesuaikan dengan pengaturan database anda
 ```
