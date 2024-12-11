@@ -46,7 +46,7 @@ Creating network "sims-ppob_minionetwork" with driver "bridge"
 Creating sims-ppob_minio_1 ... done
 ```
 
-#### 3. **Membuat database dan import Data menggunakan PgAdmin4**
+#### 3. **Membuat database dan import data menggunakan PgAdmin4**
 
 **Membuat Database**:
 
