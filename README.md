@@ -1,5 +1,18 @@
 # API Contract SIMS PPOB
 
+- Java 17
+- Spring Boot
+- Maven
+- Rest API
+- Spring Data JPA
+- Lombok
+- Spring Validation
+- Spring Security
+- JWT
+- Minio
+- PostgreSQL
+- SpringDoc OpenApi
+
 
 ## Api-Docs Swagger SIMS PPOB
 
