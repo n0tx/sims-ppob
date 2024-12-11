@@ -48,7 +48,7 @@ Creating sims-ppob_minio_1 ... done
 
 #### 3. **Membuat database dan import data menggunakan PgAdmin4**
 
-**Membuat Database**:
+1. **Membuat Database**
 
 `Nama Database: simsppob`
 
@@ -56,7 +56,7 @@ Creating sims-ppob_minio_1 ... done
 
 ![image](https://github.com/user-attachments/assets/7d747dcd-f07c-4a89-ae2d-e41a27426ccd)
 
-**Import Data**:
+2. **Import Data** 
 
 - **Membuka Query Tool**
 
@@ -163,10 +163,11 @@ minio.secretKey=password
 https://sims-ppob-production-9284.up.railway.app/swagger-ui/index.html
 ```
 
-![image](https://github.com/user-attachments/assets/76eae6ea-df2c-4476-9c26-c25846185cb3)
+![image](https://github.com/user-attachments/assets/b0fe0187-dc02-4625-b70d-ea72d1ca5e56)
 
 
 **Minio Server**
+
 ```
 https://passionate-passion-production.up.railway.app/login
 ```
