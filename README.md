@@ -56,19 +56,19 @@ Creating sims-ppob_minio_1 ... done
 
 ![image](https://github.com/user-attachments/assets/7d747dcd-f07c-4a89-ae2d-e41a27426ccd)
 
-2. **Import Data** 
+2. **Import Data**
 
-- **Membuka Query Tool**
+   - **Membuka Query Tool**
 
 ![image](https://github.com/user-attachments/assets/2d5eca54-b38b-4b42-af97-07237c44e363)
 
-- **Membuka dan menjalankan sql script simsppob.sql**
+   - **Membuka dan menjalankan sql script simsppob.sql**
 
 `Lokasi SQL script: sims-ppob/src/main/resources/simsppob.sql`
 
 ![image](https://github.com/user-attachments/assets/5caa6e5d-80bf-46c9-9825-18b3d6709ca0)
 
-- SQL script berhasil dijalankan
+   - SQL script berhasil dijalankan
 
 ![image](https://github.com/user-attachments/assets/9b028c35-f056-499c-83c9-ed87a8eddeb3)
 
