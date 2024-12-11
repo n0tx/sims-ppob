@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8fb6981e-122d-44c1-9d8c-2f6d130bcaac)# API Contract SIMS PPOB
+# API Contract SIMS PPOB
 
 
 ## Api-Docs Swagger SIMS PPOB
@@ -46,7 +46,7 @@ Creating network "sims-ppob_minionetwork" with driver "bridge"
 Creating sims-ppob_minio_1 ... done
 ```
 
-#### 3. **Membuat Database dan Import Data Menggunakan pgAdmin4**
+#### 3. **Membuat Database dan Import Data menggunakan pgAdmin4**
 
 **Membuat Database**:
 
@@ -65,6 +65,29 @@ SQL Script: sims-ppob/src/main/resources/simsppob.sql
 ```
 
 #### 4. **Mengatur Spring Active Profile**
+
 **application.properties**:
+
+```
+spring.profiles.active=dev
+```
+
 **application-dev.properties**:
+
+```
+spring.datasource.url=jdbc:postgresql://localhost:5432/simsppob
+spring.datasource.driverClassName=org.postgresql.Driver
+spring.datasource.username=springboot
+spring.datasource.password=springboot
+```
+
 **Keterangan**:
+
+```
+spring.datasource.url=jdbc:postgresql://localhost:5432/{{nama_database}}
+spring.datasource.driverClassName=org.postgresql.Driver
+spring.datasource.username={{username_database}}
+spring.datasource.password={{password_database}}
+
+Sesuaikan dengan database anda
+```
