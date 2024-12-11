@@ -1,4 +1,4 @@
-# API Contract SIMS PPOB
+![image](https://github.com/user-attachments/assets/8fb6981e-122d-44c1-9d8c-2f6d130bcaac)# API Contract SIMS PPOB
 
 
 ## Api-Docs Swagger SIMS PPOB
@@ -45,3 +45,26 @@ docker-compose.yml  mvnw  mvnw.cmd  pom.xml  README.md  src
 Creating network "sims-ppob_minionetwork" with driver "bridge"
 Creating sims-ppob_minio_1 ... done
 ```
+
+#### 3. **Membuat Database dan Import Data Menggunakan pgAdmin4**
+
+**Membuat Database**:
+
+```
+Nama Database: simsppob
+```
+
+![image](https://github.com/user-attachments/assets/23095696-748c-42c8-8971-a8bc2b9337da)
+
+![image](https://github.com/user-attachments/assets/7d747dcd-f07c-4a89-ae2d-e41a27426ccd)
+
+**Import Data**:
+
+```
+SQL Script: sims-ppob/src/main/resources/simsppob.sql
+```
+
+#### 4. **Mengatur Spring Active Profile**
+**application.properties**:
+**application-dev.properties**:
+**Keterangan**:
