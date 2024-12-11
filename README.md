@@ -62,7 +62,7 @@ Creating sims-ppob_minio_1 ... done
 
 ![image](https://github.com/user-attachments/assets/2d5eca54-b38b-4b42-af97-07237c44e363)
 
-- **Membuka dan Menjalankan simsppob.sql**
+- **Membuka dan menjalankan sql script simsppob.sql**
 
 `Lokasi SQL script: sims-ppob/src/main/resources/simsppob.sql`
 
