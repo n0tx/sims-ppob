@@ -163,10 +163,15 @@ minio.secretKey=password
 https://sims-ppob-production-9284.up.railway.app/swagger-ui/index.html
 ```
 
+![image](https://github.com/user-attachments/assets/76eae6ea-df2c-4476-9c26-c25846185cb3)
+
+
 **Minio Server**
 ```
 https://passionate-passion-production.up.railway.app/login
 ```
+
+![image](https://github.com/user-attachments/assets/534fbace-3cc5-44e6-a334-8203bc5eb4dc)
 
 **Keterangan**:
 
