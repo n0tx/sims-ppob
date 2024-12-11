@@ -133,3 +133,44 @@ INFO 11883 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Live
 INFO 11883 --- [  restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
 INFO 11883 --- [  restartedMain] c.r.s.ApiContractSimsPpobApplication     : Started ApiContractSimsPpobApplication in 6.647 seconds (process running
 ```
+
+#### 6. **Alamat Aplikasi**
+
+**Api-Docs Swagger SIMS PPOB**
+
+```
+http://localhost:8080/swagger-ui/index.html
+```
+
+**Minio Server**
+
+```
+http://localhost:9001/login
+```
+
+**Keterangan**:
+
+```
+minio.accessKey=admin
+minio.secretKey=password
+```
+
+# API Contract SIMS PPOB Railway Deployment
+
+**Api-Docs Swagger SIMS PPOB**
+
+```
+https://sims-ppob-production-9284.up.railway.app/swagger-ui/index.html
+```
+
+**Minio Server**
+```
+https://passionate-passion-production.up.railway.app/login
+```
+
+**Keterangan**:
+
+```
+minio.accessKey=admin
+minio.secretKey=password
+```
