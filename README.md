@@ -49,7 +49,6 @@ Creating sims-ppob_minio_1 ... done
 #### 3. **Membuat database dan import data menggunakan PgAdmin4**
 
 1. **Membuat Database**
-2. asdf
 
    `Nama Database: simsppob`
 
